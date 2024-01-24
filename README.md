@@ -13,7 +13,7 @@ On the other hand, data can accumulate quickly in the buffer if the streaming ra
 In this paper, we introduce ScaDLES to efficiently train on streaming data at the edge in an online fashion, while also addressing the challenges of limited bandwidth and training with non-IID data. 
 We empirically show that ScaDLES converges up to 3.29× faster compared to conventional distributed SGD._
 
-**Access Links**
+**ACCESS LINKS**
 - [Link1](https://ieeexplore.ieee.org/document/10020597)
 - [Link2](https://sahiltyagi.academicwebsite.com/publications/21209-scadles-scalable-deep-learning-over-streaming-data-at-the-edge)
 
