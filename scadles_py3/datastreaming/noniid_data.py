@@ -48,7 +48,7 @@ def bulkloader_noniid_CIFAR10(train_dir, t_id, world_size, train_bsz, input_shap
     valid_labels = []
     labels_perworker = total_labels // world_size
     for i in range(0,labels_perworker):
-        valid_labels(labels_perworker * t_id + i)
+        valid_labels.append(labels_perworker * t_id + i)
 
     logging.info(f'VALID_LABELS for CIFAR-10 t_id {t_id} valid labels are {valid_labels}')
     misc.set_seed(seed, determinism=determinism)
@@ -75,7 +75,7 @@ def bulkloader_noniid_CIFAR100(train_dir, t_id, world_size, train_bsz, input_sha
     valid_labels = []
     labels_perworker = total_labels // world_size
     for i in range(0,labels_perworker):
-        valid_labels(labels_perworker * t_id + i)
+        valid_labels.append(labels_perworker * t_id + i)
 
     logging.info(f'VALIDALABELS for t_id {t_id} valid labels are {valid_labels}')
 
