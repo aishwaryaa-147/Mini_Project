@@ -35,9 +35,3 @@ We empirically show that ScaDLES converges up to 3.29× faster compared to conve
                  journal={2022 IEEE International Conference on Big Data (Big Data)},
                  year={2022},
                  pages={2113-2122}}
-        
-- **_MLA_**: Tyagi, Sahil and Martin Swany. “ScaDLES: Scalable Deep Learning over Streaming data at the Edge.” 2022 IEEE International Conference on Big Data (Big Data) (2022): 2113-2122.
-    
-- **_APA_**: Tyagi, S., & Swany, M. (2022). ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (Big Data), 2113-2122.
-    
-- **_Chicago_**: Tyagi, Sahil and Martin Swany. “ScaDLES: Scalable Deep Learning over Streaming data at the Edge.” 2022 IEEE International Conference on Big Data (Big Data) (2022): 2113-2122.
