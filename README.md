@@ -15,7 +15,7 @@ We empirically show that ScaDLES converges up to 3.29× faster compared to conve
 
 **ACCESS LINKS**
 - [Link1](https://ieeexplore.ieee.org/document/10020597)
-- [Link2](https://sahiltyagi.academicwebsite.com/publications/21209-scadles-scalable-deep-learning-over-streaming-data-at-the-edge)
+- [Link2](https://sahiltyagi4.github.io/files/scadles.pdf)
 
 **RUNNING**
 
