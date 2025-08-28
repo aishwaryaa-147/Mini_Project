@@ -1,4 +1,4 @@
-# ScaDLES: {Sca}lable {D}eep {L}earning over {S}treaming data at the {E}dge
+#Scalable streaming Data at the Edge using Deep Learning
 
 **Implementation and data-streams simulation for the work _ScaDLES_ presented at IEEE International Conference on Big Data, 2022, Osaka, Japan.**
 
