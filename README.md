@@ -1,7 +1,5 @@
 #Scalable streaming Data at the Edge using Deep Learning
 
-**Implementation and data-streams simulation for the work _ScaDLES_ presented at IEEE International Conference on Big Data, 2022, Osaka, Japan.**
-
 _Distributed deep learning (DDL) training systems are designed for cloud and data-center environments that as- sumes homogeneous compute resources, high network bandwidth, sufficient memory and storage, as well as independent and identically distributed (IID) data across all nodes. 
 However, these assumptions don’t necessarily apply on the edge, especially when training neural networks on streaming data in an online manner. 
 Computing on the edge suffers from both systems and statistical heterogeneity. 
